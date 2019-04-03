@@ -1,0 +1,20 @@
+     A                                      DSPSIZ(24 80 *DS3)
+     A          R RECORD1
+     A                                  1 38'Lab 4'
+     A                                  5  3'Please select one of the following-
+     A                                       options:'
+     A                                  8 14'2.  Maximum Invalid Signon Attempt-
+     A                                      s allowed'
+     A                                  7 14'1.  Run Instructor''s Tickets Prog-
+     A                                      ram'
+     A                                  9 14'3.  Signed on User''s Message Queu-
+     A                                      e'
+     A                                 15 17'Option:'
+     A                                 23  4'F3=Exit'
+     A                                 23 17'F21=Comand Line '
+     A                                  1  3'Sang Jun Park'
+     A                                  2  3'Your Full Name Above'
+     A                                 10 14'4.  Initial number of active jobs -
+     A                                      for storage allocation'
+     A                                 11 14'5.  Previous sign on by signed on -
+     A                                      user' 
